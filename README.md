@@ -2,5 +2,8 @@
 
 ### **Création du dépôt le 20.11.2025 par Paul-Victor PELLOUX**
 ### **Auteur du projet: SUDRE, PELLOUX, LOZACH**
+
+# Informations supplémentaires
+
 ### **Architecture du projet: Code + Diagrammes + Documents**
 
